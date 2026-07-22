@@ -186,15 +186,5 @@ Install using:
 pip install -r requirements.txt
 ```
 
----
-
-## 👩‍💻 Author
-
-**Deepicasree S**
-
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
----
 
 ## ⭐ If you found this project useful, don't forget to give it a Star!
